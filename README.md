@@ -17,3 +17,12 @@ To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
+
+# Features
+Random Forest Classifier: A robust model for classification tasks.
+Support Vector Machine: Efficient for high-dimensional spaces.
+K-Means Clustering: Unsupervised learning for clustering tasks.
+Model Evaluation Metrics: Functions to evaluate model performance (e.g., accuracy, precision, recall).
+
+
+## Contributions are welcome! You can contribute by adding models, reporting issues, or improving documentation.
